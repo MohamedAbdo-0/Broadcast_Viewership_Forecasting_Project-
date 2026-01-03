@@ -1,5 +1,3 @@
-# Broadcast_Viewership_Forecasting_Project-
-
 # Broadcast Viewership Forecasting (15-Day Horizon)
 
 ## Overview
